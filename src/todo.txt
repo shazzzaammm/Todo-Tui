@@ -1,21 +1,4 @@
 ---TASK---
-NAME: make this work 1
+NAME: Allow modifying tasks
 COMPLETED: false
-DESCRIPTION: i dont know what to put here
-but it is multiline
-woah
----TASK---
-NAME: make this work 2
-COMPLETED: true
-DESCRIPTION: amelwaiej
----TASK---
-NAME: make this work 3
-COMPLETED: false
-DESCRIPTION: meow meow meow
----TASK---
-NAME: fake completed
-COMPLETED: babana
-DESCRIPTION: meow meow meow
----TASK---
-NAME: noi desciption
-COMPLETED: false
+DESCRIPTION: list out tasks and allow choosing by index, then modify which member, then modify in the file
