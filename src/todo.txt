@@ -1,4 +1,16 @@
 ---TASK---
 NAME: Allow modifying tasks
-COMPLETED: false
+COMPLETED: true
 DESCRIPTION: list out tasks and allow choosing by index, then modify which member, then modify in the file
+---TASK---
+NAME: test
+COMPLETED: true
+DESCRIPTION: test
+---TASK---
+NAME: meow
+COMPLETED: false
+DESCRIPTION: descrpotion
+---TASK---
+NAME: Make it so writing to the file overwrites previous data
+COMPLETED: true
+DESCRIPTION: Perchance the cursor must be moved
